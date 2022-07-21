@@ -48,10 +48,10 @@ void AFastTravelSpot_A::Tick(float DeltaTime)
 
 void AFastTravelSpot_A::GetIsDiscovered_Implementation(bool& state)
 {
-	state = isDiscovered;
+	state = bIsDiscovered;
 }
 
 void AFastTravelSpot_A::SetIsDiscovered_Implementation(bool state)
 {
-	isDiscovered = state;
+	bIsDiscovered = state;
 }

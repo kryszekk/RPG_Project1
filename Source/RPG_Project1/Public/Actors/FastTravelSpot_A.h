@@ -18,7 +18,7 @@ public:
 	AFastTravelSpot_A();
 
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
-	bool isDiscovered = false;
+	bool bIsDiscovered = false;
 	
 	UPROPERTY(BlueprintReadWrite, EditAnywhere)
 	FName SpotName;

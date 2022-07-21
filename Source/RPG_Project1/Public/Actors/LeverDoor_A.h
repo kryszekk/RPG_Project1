@@ -42,6 +42,9 @@ protected:
 	UPROPERTY()
 	FVector TargetCloseL;
 
+	UPROPERTY()
+	bool bShouldOpen = true;
+
 /////////////////////////////////////////////
 
 	UFUNCTION()
@@ -52,10 +55,7 @@ protected:
 
 	UFUNCTION()
 	void OpenOrClose(float DeltaTime);
-	
-	UPROPERTY()
-	bool ShouldOpen = true;
-	
+
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
