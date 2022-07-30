@@ -7,46 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1ce21af-03f7-4faa-900b-9e79b8658e03" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Thatch/M_Thatch.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Thatch/Opacity.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Thatch/Thatch_sheets__DefaultMaterial_BaseColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Thatch/Thatch_sheets__DefaultMaterial_Normal.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Thatch/Thatch_sheets__DefaultMaterial_OcclusionRoughnessMetallic.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/ThatchRoof_SmallStructure_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogFence_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogFence_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogFence_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogFence_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogFence_6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogFence_7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogFence_8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogSpikes_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogSpikes_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogSpikes_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogSpikes_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_LogSpikes_5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/WoodenSet_1/Wooden_SmallStructure_3_Wooden_SmallStructure_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/MyGameInstance.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/GameSave/BP_SaveGameObj.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/GameSave/Structs/S_PlayerSaveData.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_SaveGameUI/W_SaveGameUI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/CC_Shaders/HairShader/RL_Hair.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CC_Shaders/HairShader/RL_Hair.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Logs/HovelsPrototyping_Logs_BaseColor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Logs/HovelsPrototyping_Logs_BaseColor.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Logs/HovelsPrototyping_Logs_Normal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Logs/HovelsPrototyping_Logs_Normal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Logs/HovelsPrototyping_Logs_OcclusionRoughnessMetallic.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Logs/HovelsPrototyping_Logs_OcclusionRoughnessMetallic.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/M_BasicShape.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/M_BasicShape.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_BasicAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_BasicAttributes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_CharacterBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_CharacterBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_TextPlate.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_TextPlate.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MainUI/GameMenuUI/W_GameMenuUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MainUI/GameMenuUI/W_GameMenuUI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_ReadNote/W_ReadNote.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_ReadNote/W_ReadNote.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" afterDir="false" />
-    </list>
+    <list default="true" id="b1ce21af-03f7-4faa-900b-9e79b8658e03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,18 +27,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1659186217767</updated>
       <workItem from="1659186227555" duration="1715000" />
+      <workItem from="1659192799808" duration="15000" />
     </task>
     <servers />
   </component>
