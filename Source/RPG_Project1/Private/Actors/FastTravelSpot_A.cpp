@@ -29,13 +29,19 @@ AFastTravelSpot_A::AFastTravelSpot_A()
 	Mesh->SetCollisionResponseToChannel(ECC_WorldStatic, ECR_Block);
 	Mesh->SetCollisionResponseToChannel(ECC_WorldDynamic, ECR_Block);
 	Mesh->SetCollisionResponseToChannel(ECC_Pawn, ECR_Block);
-////////////////////////////////////////////////////////////////////////////////////////////	
 }
 
 // Called when the game starts or when spawned
 void AFastTravelSpot_A::BeginPlay()
 {
 	Super::BeginPlay();
+
+	//Set Default Target spot	to +100 in X axis
+	if(!bCustomTargetSpot)
+	{
+		TargetSpot = GetActorTransform();
+		TargetSpot.SetLocation(FVector(TargetSpot.GetLocation().X + 200, TargetSpot.GetLocation().Y, TargetSpot.GetLocation().Z ));
+	}
 }
 
 // Called every frame

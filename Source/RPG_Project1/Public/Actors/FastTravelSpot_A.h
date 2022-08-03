@@ -29,6 +29,15 @@ public:
 	UPROPERTY(BlueprintReadWrite)
 	UInteractable_AC* InteractComponent;
 
+	//** Set it to true if you want to set TargetSpot in editor */
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Target Spot")
+	bool bCustomTargetSpot = false;
+	
+	/** Transform ot the spot where player will be teleported to if he chose to
+	 * be teleported to this Fast travel spot	*/
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Target Spot")
+	FTransform TargetSpot;
+	
 	////////////////////////////////////////////////////
 
 	virtual void GetIsDiscovered_Implementation(bool& state) override;

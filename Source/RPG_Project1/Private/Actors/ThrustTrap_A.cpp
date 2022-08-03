@@ -3,7 +3,6 @@
 
 #include "Actors/ThrustTrap_A.h"
 
-#include <string>
 
 //constructor
 AThrustTrap_A::AThrustTrap_A()
