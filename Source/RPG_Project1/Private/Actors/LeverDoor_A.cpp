@@ -28,7 +28,7 @@ void ALeverDoor_A::BeginPlay()
 	
 	TargetCloseL = GetActorLocation();
 	TargetOpenL = TargetCloseL;
-	TargetOpenL.Z = TargetOpenL.Z + TargetDistanceZ;
+	TargetOpenL.Z = TargetOpenL.Z + abs(TargetDistanceZ);
 }
 
 // Called every frame

@@ -9,143 +9,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66a532a1-9b24-4e2c-8ffb-c03e1e19b12a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Quartzite/M_Quartzite.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Quartzite/RootStoneWall/Solid_Wall_1_For_Texturing_DefaultMaterial_BaseColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Quartzite/RootStoneWall/Solid_Wall_1_For_Texturing_DefaultMaterial_Normal.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Quartzite/RootStoneWall/Solid_Wall_1_For_Texturing_DefaultMaterial_OcclusionRoughnessMetallic.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Quartzite/Solid_Wall_1_For_Texturing_DefaultMaterial_BaseColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Quartzite/Solid_Wall_1_For_Texturing_DefaultMaterial_Normal.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Quartzite/Solid_Wall_1_For_Texturing_DefaultMaterial_OcclusionRoughnessMetallic.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Stone/Variant2/Texture_forRocks_DefaultMaterial_BaseColor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Stone/Variant2/Texture_forRocks_DefaultMaterial_Normal.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Stone/Variant2/Texture_forRocks_DefaultMaterial_OcclusionRoughnessMetallic.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/QuartziteSet_1/Quartzite_Wall_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Arch_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_OuterWall_a.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_OuterWall_b.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_Wall_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_Wall_s_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_s_1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_s_2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_s_3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Stone_Ceiling_s_4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_Lever.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AIBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/PredatorAI/BB_PredatorAI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/BP_HumanoidAI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_FastTravelSign.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_FastTravelSignController.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_HUD.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Lever.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_PlayerController.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_RoadSignBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/SplineFencesSpawner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/Test_TextPlate.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1.Target.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/Interactable_AC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpot_A.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpotsController_A.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/LeverDoor_A.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/Interactable_AC_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/Interactable_AC.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpot_A.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpotsController_A.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/LeverDoor_A.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/Interactable_AC_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/RPG_Project1.Build.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/RPG_Project1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/RPG_Project1.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1Editor.Target.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Fences/Wound_FEnce/Stone_Fence_1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Fences/Wound_FEnce/Stone_Fence_2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Stone/M_Stone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Stone/M_Stone.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/ArchedWall_1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/StonePath_01.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/StonePath_1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/StoneSet_1/Meshes/Wall_1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_AtributesComponent.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_CharacterBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_CharacterBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_CombatAttributes.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_ContainersBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_ContainersBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/LittlePickupCube.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/3DAssets/M_PickupCube.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_GameModeBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_MyGameInstance.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Alchemy/BP_GrayRoot.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Clothing/BP_Breastplate.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG_Project1.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG_Project1.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG_Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG_Project1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_AIs/AI_Combat_Component.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_AIs/BP_AI_Base.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_AIs/BP_NPC_Base.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_AIs/BP_Thug1.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Containers/BP_ContainersBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Containers/BP_ContainersBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Containers/BP_DropContainer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Containers/BP_DropContainer.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_AI_Base.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_AI_Base_C.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_NPC_Base.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_NPC_Base.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_Thug1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_Thug1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/Default__BP_AI_Base_C.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/backup/BP_AI_Base_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/backup/BP_AI_Base_2.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Alchemy/BP_Potion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Alchemy/BP_Potion.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_ClothingBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_ClothingBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_PickupsBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_PickupsBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_WeaponBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_WeaponBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/1Handed/Sword_1/BP_1H_Sword1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/1Handed/Sword_1/BP_1H_Sword1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_2/BP_Sword_2_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_2/BP_Sword_2_.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/BP_AIBase.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/BP_AnimalAI/BP_AnimalAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/BP_AnimalAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/BP_AnimalAI/PredatorAI/BB_PredatorAI.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/BP_AnimalAI/PredatorAI/BP_PredatorAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/PredatorAI/BP_PredatorAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/BP_AnimalAI/PredatorAI/BT_PredatorAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/PredatorAI/BT_PredatorAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/BP_AnimalAI/PredatorAI/CR_PredatorAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/PredatorAI/CR_PredatorAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/HumanoidAI/BB_HumanoidAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/BB_HumanoidAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/HumanoidAI/BP_HumanoidAI.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/HumanoidAI/BT_HumanoidAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/BT_HumanoidAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/HumanoidAI/CR_HumanoidAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/CR_HumanoidAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/Tasks/BTT_FindPreyLocation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/Tasks/BTT_FindPreyLocation.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/Tasks/BTT_FindRandomLocation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/Tasks/BTT_FindRandomLocation.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AI/Tasks/BTT_MoveToCustom.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/Tasks/BTT_MoveToCustom.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/ANS_MeleAttack.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/ANS_MeleAttack.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/AttributesComponent.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BPC_BasicAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_BasicAttributes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BPC_CombatAttributes.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BPC_ExtendedAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BPC_Interactable.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_Interactable.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_CharacterBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_CharacterBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_GameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_HUD.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_Interactable.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Interactable.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_Interractable.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_Player.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_PlayerController.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/BP_Sun.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/InteractableComponent.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/InventoryComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/InventoryComponent.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/Lighting/BP_Moon.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/Lighting/BP_Moon.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/Lighting/BP_Moon2.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/Lighting/BP_Sun.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/Lighting/BP_Sun.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/Portals/BP_PortalBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/Portals/BP_PortalBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Base/SplineFencesSpawner.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/Container.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/Inventory.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Clothing/BP_Zbroja1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Clothing/BP_Zbroja1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Crafting/BP_Pelt_1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Crafting/BP_Pelt_1.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Food/Apple/BP_Apple.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Food/Apple/BP_Apple.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/BP_HumanoidAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/BP_HumanoidAI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_BasicAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_BasicAttributes.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_CharacterBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_CharacterBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/MyGameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/MyGameInstance.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Container.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Container.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_UI_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_UI_2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/1Handed/LMB_Swing/1Handed_LMB_Swing1_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/1Handed/LMB_Swing/1Handed_LMB_Swing1_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/1Handed/RMB_Swing/1Handed_RMB_Swing1_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/1Handed/RMB_Swing/1Handed_RMB_Swing1_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/LMB_Swings/2Handed_LMB_Swing1b_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/LMB_Swings/2Handed_LMB_Swing1b_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/LMB_Swings/2Handed_LMB_Swing2_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/LMB_Swings/2Handed_LMB_Swing2_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/LMB_Swings/2Handed_LMB_Swing3_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/LMB_Swings/2Handed_LMB_Swing3_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/RMB_Swings/2Handed_RMB_Swing1b_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/RMB_Swings/2Handed_RMB_Swing1b_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/RMB_Swings/2Handed_RMB_Swing2_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/RMB_Swings/2Handed_RMB_Swing2_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/RMB_Swings/2Handed_RMB_Swing3_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/2Handed/RMB_Swings/2Handed_RMB_Swing3_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_LMB_Punch1_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_LMB_Punch1_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_LMB_Punch2_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_LMB_Punch2_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_LMB_Punch3_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_LMB_Punch3_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_RMB_Punch1_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_RMB_Punch1_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_RMB_Punch2_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_RMB_Punch2_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_RMB_Punch3_Montage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/ControllRigAnimations/Gauntlets/Gauntlets_RMB_Punch3_Montage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/Other/BPA_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/Other/BPA_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_InventoryUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_InventoryUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_FastTravelUI/W_FastTravelSpot.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_FastTravelUI/W_FastTravelSpot.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_FastTravelUI/W_FastTravelUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_FastTravelUI/W_FastTravelUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_WaitUI/W_WaitUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_WaitUI/W_WaitUI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPG_Project1.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/RPG_Project1.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/documentation/classD.drawio" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpot_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpot_A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/LeverDoor_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/LeverDoor_A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/ThrustTrap_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/ThrustTrap_A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpot_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpot_A.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +63,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/um/winioctl.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/PressurePlate_A.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/ThrustTrap_A.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/PressurePlate_A.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/ThrustTrap_A.h" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -174,16 +76,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="C++ Project.RPG_Project1">
     <configuration name="RPG_Project1" type="CppProject" factoryName="C++ Project">
       <configuration_1>
@@ -317,6 +219,10 @@
       <workItem from="1657034316264" duration="6572000" />
       <workItem from="1657199443781" duration="15620000" />
       <workItem from="1657286865226" duration="1678000" />
+      <workItem from="1659195547103" duration="2783000" />
+      <workItem from="1659280278573" duration="5817000" />
+      <workItem from="1659406521049" duration="802000" />
+      <workItem from="1659448893757" duration="3587000" />
     </task>
     <servers />
   </component>
