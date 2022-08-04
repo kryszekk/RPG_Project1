@@ -9,7 +9,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66a532a1-9b24-4e2c-8ffb-c03e1e19b12a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_W_LoadGameUI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_W_SaveGameUI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Enums/E_ReturnToWidget.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/LoadGameUI/W_LoadGameUI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_EnterNewSaveName.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_SaveGameBox.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_SaveGameUI.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/minature.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG_Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG_Project1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_MyGameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_MyGameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_MyGameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_MyGameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_AmountSlider.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_AmountSlider.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_InventoryUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_InventoryUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MainUI/GameMenuUI/W_GameMenuUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MainUI/GameMenuUI/W_GameMenuUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_ReadNote/W_ReadNote.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_ReadNote/W_ReadNote.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_SaveGameUI/W_SaveGameUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_SaveGameUI/W_SaveGameUI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -189,7 +209,10 @@
       <workItem from="1659195547103" duration="2783000" />
       <workItem from="1659280278573" duration="5817000" />
       <workItem from="1659406521049" duration="802000" />
-      <workItem from="1659448893757" duration="4581000" />
+      <workItem from="1659448893757" duration="5182000" />
+      <workItem from="1659536595729" duration="1335000" />
+      <workItem from="1659560746064" duration="8000" />
+      <workItem from="1659560796566" duration="1803000" />
     </task>
     <servers />
   </component>
