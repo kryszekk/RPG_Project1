@@ -2,10 +2,8 @@
 
 
 #include "Actors/PressurePlate_A.h"
-
-
-//#include "Components/BoxComponent.h"
-//#include "Engine/Engine.h"
+#include "Components/BoxComponent.h"
+#include "Actors/PPTrapBase_A.h"
 
 // Sets default values
 APressurePlate_A::APressurePlate_A()

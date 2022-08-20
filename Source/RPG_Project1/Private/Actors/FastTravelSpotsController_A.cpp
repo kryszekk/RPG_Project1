@@ -3,7 +3,6 @@
 
 #include "Actors/FastTravelSpotsController_A.h"
 
-
 // Sets default values
 AFastTravelSpotsController_A::AFastTravelSpotsController_A()
 {

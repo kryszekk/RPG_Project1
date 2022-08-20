@@ -2,12 +2,10 @@
 
 #pragma once
 
-// idk if I need this one below or not 
-//#include <Windows.Networking.Sockets.h>
+#include "Interfaces/Interactable_AC_I.h"
 
 #include "CoreMinimal.h"
-#include "Components/ActorComponent.h"
-#include "Interfaces/Interactable_AC_I.h"
+#include "Components/ActorComponent.h" //Can I get rid of this include?	
 #include "Interactable_AC.generated.h"
 
 

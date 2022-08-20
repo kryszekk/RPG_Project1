@@ -2,6 +2,7 @@
 
 
 #include "Actors/FastTravelSpot_A.h"
+#include "ActorComponents/Interactable_AC.h"
 
 // Sets default values
 AFastTravelSpot_A::AFastTravelSpot_A()
@@ -48,7 +49,6 @@ void AFastTravelSpot_A::BeginPlay()
 void AFastTravelSpot_A::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
 }
 
 
