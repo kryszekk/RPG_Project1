@@ -2,7 +2,12 @@
 
 
 #include "Actors/PPTrapBase_A.h"
-#include "Misc/OutputDeviceNull.h"
+
+#include "ActorComponents/PlayerAttributes_AC.h"
+#include "ActorComponents/SimpleAttributes_AC.h"
+#include "Interfaces/AIBase_A_I.h"
+#include "Interfaces/AttributesBase_AC_I.h"
+#include "Interfaces/Player_A_I.h"
 
 // Sets default values
 APPTrapBase_A::APPTrapBase_A()
@@ -32,9 +37,18 @@ void APPTrapBase_A::TryDamageActor(AActor* Actor, float PhysicalDamage, float Ma
 {
 	if(Actor)
 	{
-		FOutputDeviceNull ar;
-		const FString command = FString::Printf(TEXT("GotHitByTrap %f %f"), PhysicalDamage, MagicalDamage);
-		Actor->CallFunctionByNameWithArguments(*command, ar, nullptr, true);
+		if(Actor->ActorHasTag("Player"))
+		{
+			UPlayerAttributes_AC* PAttributesComponent;
+			IPlayer_A_I::Execute_GetPlayerAttributesComponent(Actor, PAttributesComponent);
+			IAttributesBase_AC_I::Execute_TryGetHitByEnemy(PAttributesComponent, PhysicalDamage, MagicalDamage);
+		}
+		else if (Actor->ActorHasTag("AI_Base"))
+		{
+			USimpleAttributes_AC* SAttributesComponent;
+			IAIBase_A_I::Execute_GetSimpleAttributeComponent(Actor, SAttributesComponent);
+			IAttributesBase_AC_I::Execute_TryGetHitByEnemy(SAttributesComponent, PhysicalDamage, MagicalDamage);
+		}
 	}
 	else
 	{

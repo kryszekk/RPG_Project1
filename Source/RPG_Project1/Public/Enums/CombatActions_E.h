@@ -1,7 +1,7 @@
 // All rights reserved
 
 #pragma once
-#include "ECombatActions_E.generated.h"
+#include "CombatActions_E.generated.h"
 
 UENUM(BlueprintType, Category="CombatActions")
 enum class ECombatActions_E : uint8

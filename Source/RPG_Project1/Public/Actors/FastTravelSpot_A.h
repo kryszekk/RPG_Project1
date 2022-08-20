@@ -3,10 +3,12 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "ActorComponents/Interactable_AC.h"
 #include "GameFramework/Actor.h"
 #include "Interfaces/FastTravelSpot_A_I.h"
+
 #include "FastTravelSpot_A.generated.h"
+
+class UInteractable_AC;
 
 UCLASS()
 class RPG_PROJECT1_API AFastTravelSpot_A : public AActor, public IFastTravelSpot_A_I

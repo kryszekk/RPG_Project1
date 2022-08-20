@@ -3,9 +3,10 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "FastTravelSpot_A.h"
 #include "GameFramework/Actor.h"
 #include "FastTravelSpotsController_A.generated.h"
+
+class AFastTravelSpot_A;
 
 UCLASS()
 class RPG_PROJECT1_API AFastTravelSpotsController_A : public AActor

@@ -2,14 +2,16 @@
 
 #pragma once
 
-#include "Enums/ECombatActions_E.h"
+#include "Enums/CombatActions_E.h"
+#include "Interfaces/CombatActions_AC_I.h"
+
 #include "CoreMinimal.h"
-#include "Components/ActorComponent.h"
+#include "Components/ActorComponent.h"	//Can I get rid of this include?
 #include "CombatActions_AC.generated.h"
 
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
-class RPG_PROJECT1_API UCombatActions_AC : public UActorComponent
+class RPG_PROJECT1_API UCombatActions_AC : public UActorComponent, public ICombatActions_AC_I
 {
 	GENERATED_BODY()
 
@@ -27,6 +29,7 @@ public:
 	bool bIsPerformingAction;
 
 	////////////////////////////////////////////////////////
+	
 	UFUNCTION(BlueprintNativeEvent, BlueprintCallable)
 	void TryPerformAction(ECombatActions_E Action);
 
@@ -40,5 +43,6 @@ protected:
 public:	
 	// Called every frame
 	virtual void TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction) override;
+	
 		
 };

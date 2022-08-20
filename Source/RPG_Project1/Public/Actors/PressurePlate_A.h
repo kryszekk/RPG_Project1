@@ -3,10 +3,11 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "PPTrapBase_A.h"
-#include "Components/BoxComponent.h"
 #include "GameFramework/Actor.h"
 #include "PressurePlate_A.generated.h"
+
+class UBoxComponent;
+class APPTrapBase_A;
 
 UCLASS()
 class RPG_PROJECT1_API APressurePlate_A : public AActor

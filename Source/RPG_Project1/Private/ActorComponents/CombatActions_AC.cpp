@@ -13,14 +13,10 @@ UCombatActions_AC::UCombatActions_AC()
 }
 
 
-
-
 // Called when the game starts
 void UCombatActions_AC::BeginPlay()
 {
 	Super::BeginPlay();
-
-	// ...
 	
 }
 
@@ -29,8 +25,6 @@ void UCombatActions_AC::BeginPlay()
 void UCombatActions_AC::TickComponent(float DeltaTime, ELevelTick TickType, FActorComponentTickFunction* ThisTickFunction)
 {
 	Super::TickComponent(DeltaTime, TickType, ThisTickFunction);
-
-	// ...
 }
 
 void UCombatActions_AC::TryPerformAction_Implementation(ECombatActions_E Action)

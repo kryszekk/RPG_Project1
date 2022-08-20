@@ -3,7 +3,7 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/Actor.h"
+#include "GameFramework/Actor.h"	//can I Get rid of this?
 #include "LeverDoor_A.generated.h"
 
 UCLASS()
