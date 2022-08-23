@@ -12,6 +12,7 @@
 //forward declarations:
 class UCombatActions_AC;
 class UWidgetComponent;
+class UInteractable_AC;
 
 
 UCLASS()
@@ -57,4 +58,10 @@ private:
 
 	UFUNCTION()
 	void CollisionInitialSetUp();
+
+	UFUNCTION()
+	void InteractableComponentInitialSetup();
+
+	UPROPERTY()
+	UInteractable_AC* InteractComponent;
 };

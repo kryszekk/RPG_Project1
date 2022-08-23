@@ -9,108 +9,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66a532a1-9b24-4e2c-8ffb-c03e1e19b12a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/Widgets/BPI_W_LoadGameUI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/Widgets/BPI_W_SaveGameUI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_TestActor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_TestActor2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Structures/S_BasicAttributes.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/AttributesBase_AC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/PlayerAttributes_AC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/SimpleAttributes_AC.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/CharacterBase_A.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/AIBase_A_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/AttributesBase_AC_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/CharacterBase_A_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/CombatActions_AC_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/MyGameInstanceBase_U_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/Player_A_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/SimpleAttributes_AC_I.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/MyGameInstanceBase_U.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/AttributesBase_AC.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/PlayerAttributes_AC.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/SimpleAttributes_AC.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/CharacterBase_A.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/ApparelKind_E.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/ApparelType_E.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/ChatColour_E.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/GameDifficulty_E.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/WeaponType_E.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/AIBase_A_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/AttributesBase_AC_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/CharacterBase_A_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/Chat_W_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/CombatActions_AC_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/MyGameInstanceBase_U_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/Player_A_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/SimpleAttributes_AC_I.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/MyGameInstanceBase_U.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Structures/PlayerAttributes_F.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Structures/SimpleAttributes_F.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Structures/TeacherAttributes_F.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_StatsBar/W_StatsBar.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/Bed_A.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/Bed_A_I.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/GameplayUI_W_I.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/HumanoidAI_A_I.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/StatsBar_W_I.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/Bed_A.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/WealthClass_E.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/Bed_A_I.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/GameplayUI_W_I.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/HumanoidAI_A_I.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/StatsBar_W_I.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RPG_Project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RPG_Project1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classes Diagram.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/Classes Diagram.drawio" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Stone/M_Stone.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Stone/M_Stone.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Thatch/M_Thatch.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/3DAssets/Multiple_Models_Materials_/Thatch/M_Thatch.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_CharacterBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_CharacterBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_GameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_GameModeBase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerAnim.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerAnim.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_W_LoadGameUI.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_W_SaveGameUI.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/Widgets/BPI_Chat.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/Widgets/BPI_UI.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/Widgets/BPI_W_AmmountSlider.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_NPC_Base.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_NPC_Base.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_Thug1.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_NPC/BP_Thug1.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_ClothingBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_ClothingBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_WeaponBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/BP_WeaponBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_1/BP_Sword_1_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_1/BP_Sword_1_.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_2/BP_Sword_2_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_2/BP_Sword_2_.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_3/BP_Sword_3_.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BP_Pickups/Weapons/2Handed/Sword_3/BP_Sword_3_.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPIs_Base/BPI_PlayerController.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AIBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AIBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/BP_AnimalAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/BP_AnimalAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/PredatorAI/BP_PredatorAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/BP_AnimalAI/PredatorAI/BP_PredatorAI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/BP_HumanoidAI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/HumanoidAI/BP_HumanoidAI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/Tasks/BTT_FindPreyLocation.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/AI/Tasks/BTT_FindPreyLocation.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_BasicAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_BasicAttributes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BPC_ExtendedAttributes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_CharacterBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_CharacterBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_MyGameInstance.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_MyGameInstance.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_GameModeBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Lever.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Lever.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_Player.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_TextPlate.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_TextPlate.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Enums/E_ApparelType.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Enums/E_ItemQuality.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Enums/E_ItemQuality.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Enums/E_ReturnToWidget.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Enums/E_WeaponType.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/GameSave/Structs/S_PlayerSaveData.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/GameSave/Structs/S_PlayerSaveData.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Structures/S_ClothingInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Structures/S_ClothingInfo.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Structures/S_WeaponInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Structures/S_WeaponInfo.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Chat/W_Chat.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Chat/W_Chat.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Inventories/Inventory/W_ClothingInventory_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Inventories/Inventory/W_ClothingInventory_2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Inventories/Inventory/W_WeaponsInventory_2.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_Inventories/Inventory/W_WeaponsInventory_2.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_InventoryUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/W_InventoryUI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/LoadGameUI/W_LoadGameUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/LoadGameUI/W_LoadGameUI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_EnterNewSaveName.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_EnterNewSaveName.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_SaveGameBox.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_SaveGameBox.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_SaveGameUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MenuSpawnableUI/SaveGameUI/W_SaveGameUI.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/_main/Characters/Animations/Other/BPA_Player.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Characters/Animations/Other/BPA_Player.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_PlayerController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/BP_PlayerController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/InventoryComponent.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/BPs_Main/InventoryComponent.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Enums/E_WealthClass.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MainUI/GameplayUI/W_GameplayUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_MainUI/GameplayUI/W_GameplayUI.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_WaitUI/W_WaitUI.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/BP-Folder/Widgets/_SecondaryUI/W_WaitUI/W_WaitUI.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/_main/Levels/TestingGround/TestingGround.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/CombatActions_AC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/CombatActions_AC.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpot_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpot_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpotsController_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/FastTravelSpotsController_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/LeverDoor_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/LeverDoor_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/PPTrapBase_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/PPTrapBase_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/PressurePlate_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/PressurePlate_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/RotatingTrap_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/RotatingTrap_A.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/RotatingTrap_A.cpp~" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/CombatActions_AC.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/CombatActions_AC.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/Interactable_AC.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/Interactable_AC.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpot_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpot_A.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpotsController_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/FastTravelSpotsController_A.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/LeverDoor_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/LeverDoor_A.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/PressurePlate_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/PressurePlate_A.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/ECombatActions_E.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/CombatActions_E.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/RPG_Project1.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/RPG_Project1.Build.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/CharacterBase_A.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/CharacterBase_A.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/CharacterBase_A.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/CharacterBase_A.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,19 +62,25 @@
     <setting file="file://$PROJECT_DIR$/Intermediate/Build/Win64/UnrealEditor/Inc/RPG_Project1/SimpleAttributes_AC_I.gen.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/AttributesBase_AC.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/ActorComponents/SimpleAttributes_AC.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/Bed_A.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/CharacterBase_A.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/PressurePlate_A.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Actors/ThrustTrap_A.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/AIBase_A_I.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/AttributesBase_AC_I.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/Bed_A_I.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/CharacterBase_A_I.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/CombatActions_AC_I.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/GameplayUI_W_I.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/HumanoidAI_A_I.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/Player_A_I.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/SimpleAttributes_AC_I.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/Interfaces/StatsBar_W_I.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Private/MyGameInstanceBase_U.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/AttributesBase_AC.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/PlayerAttributes_AC.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/ActorComponents/SimpleAttributes_AC.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/Bed_A.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/CharacterBase_A.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/PressurePlate_A.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Actors/ThrustTrap_A.h" root0="FORCE_HIGHLIGHTING" />
@@ -155,14 +88,19 @@
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/ApparelType_E.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/ChatColour_E.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/GameDifficulty_E.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/WealthClass_E.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Enums/WeaponType_E.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/AIBase_A_I.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/AttributesBase_AC_I.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/Bed_A_I.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/CharacterBase_A_I.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/Chat_W_I.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/CombatActions_AC_I.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/GameplayUI_W_I.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/HumanoidAI_A_I.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/Player_A_I.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/SimpleAttributes_AC_I.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Interfaces/StatsBar_W_I.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/MyGameInstanceBase_U.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Structures/PlayerAttributes_F.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/RPG_Project1/Public/Structures/SimpleAttributes_F.h" root0="FORCE_HIGHLIGHTING" />
@@ -339,7 +277,8 @@
       <workItem from="1660656448758" duration="43544000" />
       <workItem from="1660819889131" duration="24567000" />
       <workItem from="1660904187772" duration="39371000" />
-      <workItem from="1661033765450" duration="1006000" />
+      <workItem from="1661033765450" duration="1210000" />
+      <workItem from="1661035670801" duration="25281000" />
     </task>
     <servers />
   </component>

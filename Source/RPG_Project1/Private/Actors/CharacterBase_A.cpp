@@ -7,6 +7,7 @@
 #include "Components/CapsuleComponent.h"
 #include "Components/WidgetComponent.h"
 #include "Interfaces/Chat_W_I.h"
+#include "ActorComponents/Interactable_AC.h"
 
 // Constructor
 ACharacterBase_A::ACharacterBase_A()
@@ -17,6 +18,7 @@ ACharacterBase_A::ACharacterBase_A()
 	CombatActions = CreateDefaultSubobject<UCombatActions_AC>("Combat actions component");
 	ChatWidgetInitialSetup();
 	CollisionInitialSetUp();
+	InteractableComponentInitialSetup();
 	Tags.Add("CharacterBase");
 }
 
@@ -65,8 +67,8 @@ void ACharacterBase_A::ChatWidgetInitialSetup()
 	ChatWidget->SetCollisionResponseToAllChannels(ECollisionResponse::ECR_Ignore);
 	ChatWidget->SetVisibility(false, true);
 	ChatWidget->SetWidgetSpace(EWidgetSpace::Screen);
-	ChatWidget->SetupAttachment(GetMesh());
-	ChatWidget->SetRelativeLocation(FVector(0.0f,0.0f,GetCapsuleComponent()->GetUnscaledCapsuleHalfHeight()*2.0f));
+	ChatWidget->SetupAttachment(GetCapsuleComponent());
+	ChatWidget->SetRelativeLocation(FVector(0.0f,0.0f,GetCapsuleComponent()->GetUnscaledCapsuleHalfHeight()));
 }
 
 void ACharacterBase_A::CollisionInitialSetUp()
@@ -75,6 +77,13 @@ void ACharacterBase_A::CollisionInitialSetUp()
 	GetMesh()->SetCollisionProfileName("RagDoll",false);
 	GetMesh()->SetCollisionObjectType(ECC_GameTraceChannel1);
 	return;
+}
+
+void ACharacterBase_A::InteractableComponentInitialSetup()
+{
+	InteractComponent = CreateDefaultSubobject<UInteractable_AC>("Interact Component");
+	//I need it so that the outline post process effect will work
+	InteractComponent->PrimitiveComponent = GetMesh();	
 }
 
 void ACharacterBase_A::ShowChatText(FText Text, EChatColour_E Colour, bool bCustomDuration, float Duration)
