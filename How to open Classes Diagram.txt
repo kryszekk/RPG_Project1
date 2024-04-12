@@ -1,0 +1,4 @@
+1. Go to: https://app.diagrams.net/
+2. Device
+3. Open Existing Diagram
+4. Chose file "Classes Diagram.drawio"
